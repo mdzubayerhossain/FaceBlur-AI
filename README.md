@@ -18,7 +18,7 @@ FaceBlur AI is a web application that uses computer vision to automatically dete
 
 ## 🚀 Live Demo
 
-Check out the live demo at [https://faceblur-ai.herokuapp.com](https://faceblur-ai.herokuapp.com)
+Check out the live demo at [Link](https://face-blur-ai-flask-ll15rzi9h-mdzubayerhossains-projects.vercel.app)
 
 ## 📋 Requirements
 
