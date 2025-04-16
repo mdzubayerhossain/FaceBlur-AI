@@ -118,7 +118,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📬 Contact
 
-Project Link: [https://github.com/mdzubayerhossain/faceblur-ai](https://github.com/username/faceblur-ai)
+Project Link: [https://github.com/mdzubayerhossain/FaceBlur-AI](https://github.com/mdzubayerhossain/FaceBlur-AI)
 
 ---
 
